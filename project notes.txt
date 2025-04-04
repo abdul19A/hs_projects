@@ -1,0 +1,102 @@
+Regular information
+    -> Abdulrahman Abusharbain
+        - creator of these projects
+    -> last updated notes
+        - 1/29/25
+    -> cur project
+        - None
+
+Become Cube Version I
+    - No plan to update
+    - Good
+
+Chess
+    -> bot
+        - Complicated but does not work to check moves for checkmates
+    -> chessPieces.png
+        - This is the file for the chess pieces images, could also change
+    -> events
+        - This handles all the events and inputs of the player
+    -> gameBoard
+        - The most complicated area, I would recommend redoing, making it simpler
+    -> main
+        - The whole game works except for the bot
+        - I could make this a class
+    -> pieces
+        - This contains all the functionality for all the pieces along with their available moves
+    -> test
+        - This is an empty and deletable file
+    -> vars
+        - all the chess variables and constants
+
+    - WORKS FINALLY
+
+Flying Paper
+    - Old project
+    - still works
+
+Graphics Library
+    - rather not use
+
+Math
+    -> Base
+        - converts bases to other bases
+        - works perfectly fine
+    -> cool shi
+        - saw it on yt
+    -> fractal
+        - works and is really cool
+    -> prime
+        - was demo but works
+    -> test
+        - just some random testing
+    -> ultimate_grapher
+        - works perfectly fine except imaginary numbers
+        * to fix
+
+Physics Sims
+    -> ball_sim
+        - Works completely with accurate collisions using chatgpt cus im not doing lin alg
+        - Do need to upgrade the overlap mechanics
+    -> circuits
+        - work in progress, got it to somewhat work
+    -> gravity
+        - Really cool and should keep being added onto - done 2/4/25
+        - works
+    -> line_spin
+        - Does work, used it at the elective fair
+    -> rect_v_rect
+        - works really well and is cool
+        - Now with graph!
+    -> test
+        - Every file needs one
+
+Snake
+    - Works perfectly fun
+    - nice game
+
+Square Dash
+    - Does not work
+    - problem with collisions
+    - problem with jumping on Blocks
+    * to fix
+
+Tetris
+    - Really tough project
+    - Works however there are some bugs
+    - no need to fix
+
+ThreeDEngine
+    -> camera
+        - wtf is that linear algebra
+    -> graphic
+        - wtf is that linear algebra
+    -> main
+        - works and functional
+Utilities
+    -> input_box
+        - works perfectly fine
+        - project made by someone else
+        - UI could be improved
+
+
