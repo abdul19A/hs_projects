@@ -1,6 +1,7 @@
 Regular information
     -> Abdulrahman Abusharbain
         - creator of these projects
+        - email: aboodiadel13@gmail.com
     -> last updated notes
         - 1/29/25
     -> cur project
